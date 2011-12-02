@@ -1,0 +1,14 @@
+pyMightLED
+
+A library for controlling the  Mightex Sirius SLC-XXXX-S/U multi-channel LED
+Controllers.
+
+Installations instructions can be found in the INSTALL file.
+
+See the examples illustrating how to use the library see the examples
+subdirectory.
+
+Author: Will Dickson IO Rodeo Inc.
+
+pyMightLED may be freely distributed and modified in accordance with the Apache
+2.0  License.
